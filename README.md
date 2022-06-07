@@ -4,24 +4,21 @@
 - 💞️ I’m looking to collaborate on open projects
 - 📫 How to reach me
 
-[![website](./img/globe-light.svg)](https://moerabaya.com#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://moerabaya.com#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/moerabaya#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/moerabaya#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/moerabaya_#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/moerabaya_#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/moerabaya#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/moerabaya#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/behance-light.svg)](https://www.behance.net/moerabaya#gh-light-mode-only)
-[![website](./img/behance-dark.svg)](https://www.behance.net/moerabaya#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/dribbble-light.svg)](https://dribbble.com/moerabaya#gh-light-mode-only)
-[![website](./img/dribbble-dark.svg)](https://dribbble.com/moerabaya#gh-dark-mode-only)
 
+<p align="center">
+      <a href="https://moerabaya.com/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/-Website-ea953a?style=flat-square&logo=WindowsTerminal&logoColor=whitewhite"></a>
+  
+    <a href="https://www.linkedin.com/in/moerabaya" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
+    
+    <a href="https://instagram.com/moerabaya" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"></a>
+    
+  <a href="https://twitter.com/moerabaya_" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1A8CD8?style=flat-square&logo=Twitter&logoColor=white"></a>
+  
+    <a href="https://www.behance.net/moerabaya" target="_blank"><img alt="Behance" src="https://img.shields.io/badge/-Behance-1769FF?style=flat-square&logo=Behance&logoColor=white"></a>
+  
+    <a href="https://dribbble.com/moerabaya" target="_blank"><img alt="Dribbble" src="https://img.shields.io/badge/-Dribbble-EA4C89?style=flat-square&logo=Dribbble&logoColor=white"></a>
+
+ </p>
 <!---
 moerabaya/moerabaya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
