@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @moerabaya
 - 👀 I’m interested in almost everything 😅
 - 🌱 I’m currently a senior engineer at [@Cura](https://cura.healthcare/)
-- 💞️ I’m looking to collaborate on open projects
+- 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me
 
 <br />
