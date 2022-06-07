@@ -5,7 +5,7 @@
 - 📫 How to reach me
 
 
-<p align="center">
+<p style="margin-top: '2em'">
       <a href="https://moerabaya.com/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/-Website-ea953a?style=flat-square&logo=WindowsTerminal&logoColor=whitewhite"></a>
       <a href="https://www.linkedin.com/in/moerabaya" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
       <a href="https://instagram.com/moerabaya" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"></a>
