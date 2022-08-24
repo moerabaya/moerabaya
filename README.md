@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @moerabaya
-- 👀 I’m interested in almost everything 😅
-- 🌱 I’m currently a senior engineer at [@Cura](https://cura.healthcare/)
+- 👀 I’m interested in building design systems using react.js, styled-components, and next.js.
+- 🌱 I’m currently a senior frontend engineer at [@Cura](https://cura.healthcare/)
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me
 
