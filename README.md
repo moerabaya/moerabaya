@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @moerabaya
 - 👀 I like building design systems using react.js, styled-components, and next.js.
-- 🌱 I’m currently a Senior Frontend Engineer at [@Cura](https://cura.healthcare/)
+- 🌱 I’m currently a Senior Software Engineer at [@Rodeo Softwarr](https://getrodeo.io/ )
 - 👨‍💻 Currently learning [GraphQL](https://github.com/moerabaya/graphql) 🫣
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me
