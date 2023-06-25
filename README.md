@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @moerabaya
-- 👀 I like building design systems using react.js, styled-components, and next.js.
+- 👀 I develop web-apps using react.js
 - 🌱 I’m currently a Senior Software Engineer at [@Rodeo Software](https://getrodeo.io/ )
-- 👨‍💻 Currently learning [GraphQL](https://github.com/moerabaya/graphql) 🫣
+- 👨‍💻 Currently playing around with Unity
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me
 
